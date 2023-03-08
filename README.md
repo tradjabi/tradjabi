@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I’m Tara
+### 👀 I’m interested in cyber-security and control theory
+### 🌱 I’m currently Working on fault detection
+### 📫 How to reach me tradjabi@gmail.com
 
 <!--
 **tradjabi/tradjabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
