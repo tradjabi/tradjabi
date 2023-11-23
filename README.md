@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Tara
-### 👀 I’m interested in cyber-security and control theory
-### 🌱 I’m currently Working on fault detection
+### 👀 I’m interested in autonomous vehicles
+### 🌱 I’m currently Working on fault detection and V2X
 ### 📫 How to reach me tradjabi@gmail.com
 
 <!--
